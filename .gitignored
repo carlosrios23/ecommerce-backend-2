@@ -1,0 +1,21 @@
+# Archivos de entorno
+.env
+*.env
+
+# Dependencias de Node
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Directorios de IDEs
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de desarrollo
+dist/
+coverage/
+*.tmp
